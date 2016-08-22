@@ -1,16 +1,16 @@
 # ok-bot
 
-# Getting Started
+## Getting Started
 
 >npm install
 
 >npm start
 
-# Tutorial
+## Tutorial
 
 > https://dev.botframework.com/
 
-# Test
+## Test
 Emulator 
 
 > https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html#emulator
