@@ -2,14 +2,15 @@
 
 # Getting Started
 
-> npm install
-> npm start
+    > npm install
+
+    > npm start
 
 # Tutorial
 
-> https://dev.botframework.com/
+    > https://dev.botframework.com/
 
 # Test
 Emulator 
 
-> https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html#emulator
+    > https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html#emulator
