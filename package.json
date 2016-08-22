@@ -1,0 +1,28 @@
+{
+  "name": "ok-bot",
+  "version": "1.0.0",
+  "description": "An intelligent conversational bot powered by Microsoft Bot Framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "kgao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kgao/ok-bot"
+  },
+  "keywords": [
+    "AI",
+    "Bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/kgao/ok-bot/issues"
+  },
+  "homepage": "https://github.com/kgao/ok-bot",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  }
+}
