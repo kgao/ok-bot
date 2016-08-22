@@ -2,9 +2,9 @@
 
 # Getting Started
 
-    npm install
+>npm install
 
-    npm start
+>npm start
 
 # Tutorial
 
