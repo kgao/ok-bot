@@ -1,0 +1,9 @@
+{
+  "microsoft":{
+    "app":{
+      "name": "ok-bot",
+      "id":"<yourAppId>",
+      "password": "<yourAppPassword>"
+    }
+  }
+}
