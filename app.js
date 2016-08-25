@@ -539,7 +539,7 @@ bot.dialog('/help', [
             ]);
         var msg = new builder.Message(session).attachments([card]);
         session.send(msg);
-        session.send("Hi! I'm msrbot, living @ MSR NYC Slack. I can show you everything you can use our Bot Builder SDK to do on Slack.");
+        session.send("Hi! I'm msrbot, living @ MSR NYC Slack. I can show you what you can use our Bot Builder SDK to do on Slack. And I'm open sourced! Github: https://github.com/kgao/ok-bot");
         // help msg
         session.endDialog("Global commands that are available anytime:\n\n* menu - Exits a demo and returns to the menu.\n* goodbye - End this conversation.\n* help - Displays these commands.");
     }
