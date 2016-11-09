@@ -2,6 +2,8 @@
 
 ### Getting Started
 
+>create your config.json (see config-template.json)
+
 >npm install
 
 >npm start
